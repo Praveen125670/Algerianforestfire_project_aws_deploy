@@ -1,0 +1,13 @@
+How to commit to github
+1.ls -a
+2.git remote -v
+git remote rm origin
+git remote -v
+git init
+git add .
+git status
+git commit -m "first commit"
+git commit -m "first commit"
+git -M main
+git remote add origin https:
+git push-u origin main
